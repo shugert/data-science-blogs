@@ -6,6 +6,7 @@
     </head>
     <body>
         <outline text="Data science blogs" title="Data science blogs">
+        		<outline type="rss" text="3Blades | Data Science News & Tutorials" title="3Blades | Data Science News & Tutorials" xmlUrl="http://3blades.io/blog/feed/" htmlUrl="http://www.3blades.io"/> 
 			<outline type="rss" text="A Blog From a Human-engineer-being" title="A Blog From a Human-engineer-being" xmlUrl="http://www.erogol.com/feed/" htmlUrl="http://www.erogol.com/"/>
 			<outline type="rss" text="Aakash Japi" title="Aakash Japi" xmlUrl="http://logicx24.github.io/feed.xml" htmlUrl="http://aakashjapi.com/"/>
 			<outline type="rss" text="Advanced Analytics &amp; R" title="Advanced Analytics &amp; R" xmlUrl="http://advanceddataanalytics.net/feed/" htmlUrl="http://advanceddataanalytics.net/"/>
