@@ -1,5 +1,6 @@
 ﻿# Data science blogs
 A curated list of data science blogs
+* 3Blades http://www.3blades.io [(RSS)] (http://www.3blades.io/blog/feed/)
 * A Blog From a Human-engineer-being http://www.erogol.com/ [(RSS)] (http://www.erogol.com/feed/)
 * Aakash Japi http://aakashjapi.com/ [(RSS)] (http://logicx24.github.io/feed.xml)
 * Advanced Analytics & R http://advanceddataanalytics.net/ [(RSS)] (http://advanceddataanalytics.net/feed/)
